@@ -38,3 +38,6 @@ pnpm-lock.yaml
 
 # prevent documentation files from being accidentally served as static assets
 /public/**/*.md
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
