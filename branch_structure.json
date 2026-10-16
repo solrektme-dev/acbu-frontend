@@ -1,0 +1,21 @@
+{
+  "default_branch": "dev",
+  "branches": [
+    "dev",
+    "fix/issue-1023-w10-ui-006-help-faq-copy-mismatch-mint-converts",
+    "fix/issue-987-w10-f-011-root-layout-hardcodes-lang-en-for-all",
+    "origin"
+  ],
+  "parent": {
+    "dev": null,
+    "fix/issue-1023-w10-ui-006-help-faq-copy-mismatch-mint-converts": "dev",
+    "fix/issue-987-w10-f-011-root-layout-hardcodes-lang-en-for-all": "dev",
+    "origin": "dev"
+  },
+  "order": [
+    "dev",
+    "fix/issue-1023-w10-ui-006-help-faq-copy-mismatch-mint-converts",
+    "fix/issue-987-w10-f-011-root-layout-hardcodes-lang-en-for-all",
+    "origin"
+  ]
+}
